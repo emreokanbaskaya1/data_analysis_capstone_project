@@ -2,11 +2,8 @@
 
 ## Project Overview
 
-In this capstone project, I analyzed data from YouTube and Spotify, performed exploratory data analysis (EDA), and visualized the results using Power BI. This project is documented and available on GitHub. The files to be included in the repository are:
+In this capstone project, I analyzed data from YouTube and Spotify, performed exploratory data analysis (EDA), and visualized the results using Power BI. This project is documented and available on GitHub.
 
-- `dataset.csv`
-- `dashboard.pbix`
-- `eda.ipynb`
 
 ## Dataset Description
 
@@ -32,10 +29,6 @@ The dataset contains the following columns:
 - **python_analysis.ipynb:** The Power BI dashboard file showcasing the visualized insights from the data.
 - **EDA Analizi:** The Jupyter Notebook file containing the exploratory data analysis.
 
-## How to Use
-
-1. **Data Analysis:** Open `eda.ipynb` in Jupyter Notebook to see the exploratory data analysis performed on the dataset.
-2. **Visualization:** Open `dashboard.pbix` in Power BI to view the interactive visualizations and insights derived from the data.
 
 ## Conclusion
 
