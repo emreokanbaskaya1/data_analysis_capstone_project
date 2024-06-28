@@ -24,11 +24,6 @@ The dataset contains the following columns:
 - **Instrumentalness:** Predicts whether a track contains no vocals. Values closer to 1.0 indicate higher likelihood of the track being instrumental.
 - **Liveness:** Detects the presence of a live audience. Higher values represent a greater probability of the track being performed live.
 
-## Project Files
-
-- **python_analysis.ipynb:** The Power BI dashboard file showcasing the visualized insights from the data.
-- **EDA Analizi:** The Jupyter Notebook file containing the exploratory data analysis.
-
 
 ## Conclusion
 
